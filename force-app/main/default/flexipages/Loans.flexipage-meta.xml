@@ -23,4 +23,9 @@
         <name>flexipage:appHomeTemplateHeaderTwoColumnsLeftSidebar</name>
     </template>
     <type>AppPage</type>
+    <masterLabel>Picchiri</masterLabel>
+    <template>
+        <name>flexipage:appHomeTemplateHeaderTwoColumnsLeftSidebar</name>
+    </template>
+    <type>AppPage</type>
 </FlexiPage>

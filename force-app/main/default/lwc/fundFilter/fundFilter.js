@@ -5,6 +5,9 @@ import { fireEvent } from 'c/pubsub';
 export default class FundFilter extends LightningElement {
     @wire(CurrentPageReference) pageRef;
 
+    //console.console.log(pageRef);
+    
+
     handleSearchKeyChange(event) {
         if (event.detail !== undefined) {
             fireEvent(this.pageRef, 'dreaminvest__fundfilterchange', {

@@ -96,6 +96,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Picchiri</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Quotes</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>

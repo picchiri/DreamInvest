@@ -2,9 +2,9 @@ import { LightningElement, track } from 'lwc';
 import mortgageUtils from 'c/mortgageUtils';
 
 export default class MortgageCalculator extends LightningElement {
-    _principal = 200000;
-    _years = 30;
-    _rate = 5;
+    _principal = 90000;
+    _years = 18;
+    _rate = 2;
 
     @track monthlyPayment = 0.0;
 
@@ -49,7 +49,8 @@ export default class MortgageCalculator extends LightningElement {
             { label: '20', value: '20' },
             { label: '25', value: '25' },
             { label: '30', value: '30' },
-            { label: '35', value: '35' }
+            { label: '35', value: '35' },
+            { label: '40', value: '40' }
         ];
     }
 }

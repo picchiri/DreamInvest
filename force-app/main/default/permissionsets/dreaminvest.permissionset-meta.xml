@@ -85,6 +85,10 @@
         <tab>Loans</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <tabSettings>
+        <tab>Picchiri</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
         <tabSettings>
         <tab>Quotes</tab>
         <visibility>Visible</visibility>
