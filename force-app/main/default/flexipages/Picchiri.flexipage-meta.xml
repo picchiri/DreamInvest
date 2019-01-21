@@ -6,19 +6,12 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>mortgageCalculator</componentName>
+            <componentName>picchiri</componentName>
         </componentInstances>
         <name>region2</name>
         <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <componentInstances>
-            <componentName>mortgageAmortization</componentName>
-        </componentInstances>
-        <name>region3</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <masterLabel>Loans</masterLabel>
+    </flexiPageRegions>    
+    <masterLabel>Picchiri</masterLabel>
     <template>
         <name>flexipage:appHomeTemplateHeaderTwoColumnsLeftSidebar</name>
     </template>
